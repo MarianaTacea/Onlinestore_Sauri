@@ -20,6 +20,8 @@ II. DE CREAT USER/PAROLA pentru clienti
 III. De pus meniu lateral pentru 
 prezentare categorii/produse/cautare
 
+IV. De creat baza date/tabele 
+
 
 
 
