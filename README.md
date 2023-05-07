@@ -23,6 +23,12 @@ prezentare categorii/produse/cautare
 IV. De creat baza date/tabele 
 
 
+1.Am creat Aplicatia HOME cu homepage
+2. Am creat base.html - am creat background aici - 
+   3.                       O fi bine? 
+4.      Nu reusesc sa stilizez cu my_style.css fundalul 
+
+
 
 
      
